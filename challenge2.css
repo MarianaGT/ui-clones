@@ -1,0 +1,80 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 15px;
+}
+
+.flex-horizontal {
+  display: flex;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.banner {
+  width: 90%;
+  margin: 30px auto;
+}
+
+.banner-img {
+  height: 400px;
+}
+
+.logo {
+  height: 20px;
+}
+
+.padding-y-axis {
+  padding: 50px 0;
+}
+
+.color-banner {
+  margin: 0 40px;
+  padding: 40px 60px;
+}
+
+.width-30 {
+  width: 30%;
+}
+
+.width-60 {
+  width: 60%;
+}
+
+.card {
+  padding: 20px;
+}
+
+.pink-bg {
+  background-color: #fae2db;
+}
+
+.white-bg {
+  background-color: white;
+}
+
+.avatar {
+  border-radius: 3000px;
+  height: 40px;
+}
+
