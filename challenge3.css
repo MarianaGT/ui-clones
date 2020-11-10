@@ -1,5 +1,5 @@
 html {
-  --navHeight: 112px;
+  --navHeight: 200px;
 }
 
 body {
@@ -25,6 +25,7 @@ h3 {
 h4 {
   font-size: 24px;
   overflow: hidden;
+  white-space: nowrap;
 }
 
 .width-60 {
@@ -71,8 +72,6 @@ h4 {
   display: flex;
 }
 
-
-
 .padding-20 {
   padding: 20px;
 }
@@ -88,4 +87,9 @@ h4 {
 
 .fit {
   box-sizing: border-box;
+}
+
+.border {
+  border: 2px solid black;
+  margin: -1px;
 }
