@@ -1,5 +1,6 @@
 body {
   font-family: Arial;
+  margin: 0 60px;
 }
 
 h1 {
@@ -49,7 +50,6 @@ p {
 }
 
 .color-banner {
-  margin: 0 40px;
   padding: 40px 60px;
 }
 
@@ -65,8 +65,14 @@ p {
   padding: 20px;
 }
 
+.card-action {
+  height: 60px;
+  text-align: center;
+  background-color: #e5c0ad;
+}
+
 .pink-bg {
-  background-color: #fae2db;
+  background: linear-gradient(to right, #f8dbd7, #fdeade);
 }
 
 .white-bg {
